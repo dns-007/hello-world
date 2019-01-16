@@ -12,7 +12,7 @@ public class MyMain {
 		System.out.println("This is feature 2!");
 		System.out.println("This is feature 3!");
 		
-		System.out.println("This is feature 5!");
+		System.out.println("This is feature 7!");
 
 	}
 
