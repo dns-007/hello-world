@@ -4,7 +4,7 @@ public class MyMain {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Master Release");
+		System.out.println("Master Release 2.0");
 
 		
 		System.out.println("This is feature1");
@@ -20,7 +20,10 @@ public class MyMain {
 		System.out.println("This is feature 10");
 		System.out.println("This is feature 11");
 		
+
+		System.out.println("This is feture 28");
 		System.out.println("This is feature 14");
+
 
 	}
 
